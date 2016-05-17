@@ -1,0 +1,16 @@
+[
+	{
+		"Node": "Prasads-MacBook-Pro.local",
+		"Address": "192.168.0.22",
+		"ServiceID": "rest-microservice",
+		"ServiceName": "rest-microservice",
+		"ServiceTags": [
+			""
+		],
+		"ServiceAddress": "",
+		"ServicePort": 8500,
+		"ServiceEnableTagOverride": false,
+		"CreateIndex": 91,
+		"ModifyIndex": 91
+	}
+]

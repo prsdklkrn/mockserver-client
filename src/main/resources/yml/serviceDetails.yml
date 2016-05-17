@@ -1,0 +1,9 @@
+details:
+  - serviceName: CWL-Auth-v3
+    servicePort: 9008
+    httpMethod: POST
+    requestPath: /validate
+  - serviceName: CWL-Achv-v3
+    servicePort: 9009
+    httpMethod: GET
+    requestPath: /user
